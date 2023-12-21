@@ -1,0 +1,13 @@
+/* FormStyles.css */
+.form-label {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.5rem; /* Adjust this value as needed */
+  }
+  
+  label-style{
+    text-align: start;
+  }
+
+  /* Additional classes for inputs, select elements, etc. can be defined here */
+  
